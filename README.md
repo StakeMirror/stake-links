@@ -19,13 +19,13 @@ Perfect for users who need reliable access on the go.
 | [stake.ac](https://stake1102.com/)      |
 | [stake.games](https://stake1102.com/)   |
 | [stake.pet](https://stake1102.com/)     |
-| [stake.krd](https://stake.krd/?c=E21eRDVa)         |
-| [stake.mba](https://stake.mba/?c=E21eRDVa)         |
-| [stake.ceo](https://stake.ceo/?c=E21eRDVa)         |
-| [stake.bz](https://stake.bz/?c=E21eRDVa)           |
-| [staketr.com](https://staketr.com/?c=E21eRDVa)     |
-| [stake.jp](https://stake.jp/?c=E21eRDVa)           |
-| [stake.com](https://stake.com/?c=E21eRDVa)         |
+| [stake.krd](https://stake1102.com/)     |
+| [stake.mba](https://stake1102.com/)     |
+| [stake.ceo](https://stake1102.com/)     |
+| [stake.bz](https://stake1102.com/)      |
+| [staketr.com](https://stake1102.com/)   |
+| [stake.jp](https://stake1102.com/)      |
+| [stake.com](https://stake1102.com/)     |
 
 > 📌 These mirrors are tested and optimized for smooth loading and low data consumption on mobile networks.
 
